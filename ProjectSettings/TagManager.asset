@@ -8,6 +8,7 @@ TagManager:
   - SettingsButton
   - ContinueButton
   - StartButton
+  - Enemy
   layers:
   - Default
   - TransparentFX
